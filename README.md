@@ -1,4 +1,4 @@
-# kafka-consumer
+# quarkus-kafka-consumer-sample
 
 This project uses Quarkus to implement a simple kafka consumer with configurable processing time.
 
